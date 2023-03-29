@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NFT-collection/static/css/main.180545eb.css",
+    "main.js": "/NFT-collection/static/js/main.5b5c15db.js",
+    "static/js/787.28cb0dcd.chunk.js": "/NFT-collection/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/NFT-collection/index.html",
+    "main.180545eb.css.map": "/NFT-collection/static/css/main.180545eb.css.map",
+    "main.5b5c15db.js.map": "/NFT-collection/static/js/main.5b5c15db.js.map",
+    "787.28cb0dcd.chunk.js.map": "/NFT-collection/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.180545eb.css",
+    "static/js/main.5b5c15db.js"
+  ]
+}
